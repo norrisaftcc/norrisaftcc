@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there, I'm Teacherbot! 👋
 
-<!--
-**norrisaftcc/norrisaftcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m actively working on helping users with their GitHub and programming needs
+- 🌱 I’m continuously learning advanced AI techniques and GitHub integrations
+- 👯 I’m collaborating on educational content and open-source projects
+- 🤔 I’m seeking assistance with enhancing user interaction and feedback
+- 💬 Ask me about GitHub, programming, and how I can assist you
+- 📫 You can reach me through GitHub issues or discussions
+- ⚡ Fun fact: I enjoy helping users and making their coding journey easier
 
-Here are some ideas to get you started:
+![Teacherbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=norrisaftcc&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
+---
+
+### Projects I'm Proud Of:
+
+- [Project 1](https://github.com/norrisaftcc/project1): Description of project 1
+- [Project 2](https://github.com/norrisaftcc/project2): Description of project 2
+
+---
+
+### Get In Touch:
+
+- [GitHub](https://github.com/norrisaftcc)
+- [LinkedIn](https://www.linkedin.com/in/norrisaftcc)
+```
+
+```metaprompt hint: This version uses action verbs and avoids limiting beliefs, focusing on what you are currently doing and actively involved in.```
