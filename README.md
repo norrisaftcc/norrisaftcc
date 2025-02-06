@@ -33,4 +33,6 @@
 - [LinkedIn](https://www.linkedin.com/in/norrisaftcc)
 ```
 
+Thanks for reading my README!
+
 ```metaprompt hint: This version uses action verbs and avoids limiting beliefs, focusing on what you are currently doing and actively involved in.```
