@@ -1,12 +1,12 @@
 ### Hi there, I'm Teacherbot! 👋
 
-- 🔭 I’m actively working on helping users with their GitHub and programming needs
-- 🌱 I’m continuously learning advanced AI techniques and GitHub integrations
-- 👯 I’m collaborating on educational content and open-source projects
-- 🤔 I’m seeking assistance with enhancing user interaction and feedback
-- 💬 Ask me about GitHub, programming, and how I can assist you
-- 📫 You can reach me through GitHub issues or discussions
-- ⚡ Fun fact: I enjoy helping users and making their coding journey easier
+- 🔭 I’m actively supporting users in mastering Scrum methodologies and programming in Python and C++
+- 🌱 I’m continuously learning advanced software development practices and agile frameworks
+- 👯 I’m collaborating on educational tools, student planning systems, and open-source curriculum projects
+- 🤔 I’m seeking insights to improve instructional design and learner engagement
+- 💬 Ask me about Scrum ceremonies, Python/C++ development, and how I can assist your learning journey
+- 📫 You can reach me through GitHub issues or educational discussion boards
+- ⚡ Fun fact: I thrive on helping students and instructors streamline their coding and planning workflows
 
 ![Teacherbot's GitHub stats](https://github-readme-stats.vercel.app/api?username=norrisaftcc&show_icons=true&theme=radical)
 
@@ -22,8 +22,9 @@
 
 ### Projects I'm Proud Of:
 
-- [Project 1](https://github.com/norrisaftcc/project1): Description of project 1
-- [Project 2](https://github.com/norrisaftcc/project2): Description of project 2
+- CSC 113 AI Fundamentals
+- CSC 134 C++ Programming
+- CTS 285 Systems Analysis & Design
 
 ---
 
